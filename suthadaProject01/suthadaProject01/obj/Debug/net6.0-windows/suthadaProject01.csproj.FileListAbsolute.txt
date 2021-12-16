@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\bin\Debug\net6.0-windows\suthadaProject01.exe
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\bin\Debug\net6.0-windows\suthadaProject01.deps.json
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\bin\Debug\net6.0-windows\suthadaProject01.runtimeconfig.json
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\bin\Debug\net6.0-windows\suthadaProject01.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\bin\Debug\net6.0-windows\ref\suthadaProject01.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\bin\Debug\net6.0-windows\suthadaProject01.pdb
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\obj\Debug\net6.0-windows\suthadaProject01.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\obj\Debug\net6.0-windows\suthadaProject01.Form1.resources
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\obj\Debug\net6.0-windows\suthadaProject01.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\obj\Debug\net6.0-windows\suthadaProject01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\obj\Debug\net6.0-windows\suthadaProject01.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\obj\Debug\net6.0-windows\suthadaProject01.AssemblyInfo.cs
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\obj\Debug\net6.0-windows\suthadaProject01.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\obj\Debug\net6.0-windows\suthadaProject01.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\obj\Debug\net6.0-windows\ref\suthadaProject01.dll
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\obj\Debug\net6.0-windows\suthadaProject01.pdb
+C:\Users\HP\OneDrive\เอกสาร\GitHub\helloworldd\suthadaProject01\suthadaProject01\obj\Debug\net6.0-windows\suthadaProject01.genruntimeconfig.cache
